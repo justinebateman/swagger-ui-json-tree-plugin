@@ -1,4 +1,7 @@
 # swagger-ui-json-tree-plugin
+
+[![Build Status](https://travis-ci.com/justinebateman/swagger-ui-json-tree-plugin.svg?branch=master)](https://travis-ci.com/justinebateman/swagger-ui-json-tree-plugin)
+
 A plugin for Swagger UI to display JSON responses in a collapsible tree view. 
 
 A "copy to clipboard button" is also available for the entire JSON object or for individual values
