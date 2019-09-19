@@ -19,7 +19,7 @@
     "babel-preset-stage-2": "^6.24.1",
     "uglifyjs-webpack-plugin": "^2.2.0",
     "webpack": "^4.40.2",
-    "webpack-cli": "^3.3.8",
+    "webpack-cli": "^3.3.9",
     "webpack-closure-compiler": "^2.1.6",
     "webpack-dev-server": "^3.8.1"
   },
