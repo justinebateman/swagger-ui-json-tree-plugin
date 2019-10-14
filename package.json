@@ -32,6 +32,6 @@
     "proptypes": "^1.1.0",
     "react": "^16.10.2",
     "react-json-view": "latest",
-    "swagger-ui-dist": "^3.23.11"
+    "swagger-ui-dist": "^3.24.0"
   }
 }
