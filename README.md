@@ -1,8 +1,8 @@
 # swagger-ui-json-tree-plugin
 
-[![Build Status](https://travis-ci.com/justinebateman/swagger-ui-json-tree-plugin.svg?branch=master)](https://travis-ci.com/justinebateman/swagger-ui-json-tree-plugin)
+[![swagger-ui-json-tree-ci Actions Status](https://github.com/justinebateman/swagger-ui-json-tree-plugin/workflows/swagger-ui-json-tree-ci/badge.svg)](https://github.com/justinebateman/swagger-ui-json-tree-plugin/actions)
 
-A plugin for Swagger UI to display JSON responses in a collapsible tree view. 
+A plugin for Swagger UI to display JSON responses in a collapsible tree view.
 
 A "copy to clipboard button" is also available for the entire JSON object or for individual values
 
@@ -13,11 +13,13 @@ https://www.npmjs.com/package/react-json-view
 ## Usage
 
 1. Install dependencies
+
 ```
 npm install
 ```
 
 2. Build
+
 ```
 npm run build
 ```
@@ -35,6 +37,7 @@ npm run build
 ```
 SwaggerUIStandalonePreset.unshift(jsonTreePlugin.default);
 ```
+
 ## Screenshot
 
 ![alt text](https://github.com/justinebateman/swagger-ui-json-tree-plugin/blob/master/doc/Example.png?raw=true)

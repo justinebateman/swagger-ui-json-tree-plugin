@@ -1,4 +1,0 @@
-language: node_js
-node_js:
-  - node
-script: npx del ./dist && npx del ./node_modules && npm install && npm run build
