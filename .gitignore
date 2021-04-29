@@ -1,2 +1,9 @@
 # Dependency directories
 node_modules/
+package-lock.json
+
+# build files
+dist
+
+# things
+.DS_Store

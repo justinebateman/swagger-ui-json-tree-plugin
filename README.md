@@ -12,15 +12,25 @@ https://www.npmjs.com/package/react-json-view
 
 ## Usage
 
-1. Copy swagger-ui-json-tree-plugin.js and swagger-ui-json-tree-plugin.js.map from the dist folder into your Swagger project
+1. Install dependencies
+```
+npm install
+```
 
-2. Include this script in your Swagger index.html
+2. Build
+```
+npm run build
+```
+
+3. Copy swagger-ui-json-tree-plugin.js and swagger-ui-json-tree-plugin.js.map from the dist folder into your Swagger project
+
+4. Include this script in your Swagger index.html
 
 ```
 <script src="./swagger-ui-json-tree-plugin.js"></script>
 ```
 
-3. On the line before declaring your SwaggerUIBundle config - add this line
+5. On the line before declaring your SwaggerUIBundle config - add this line
 
 ```
 SwaggerUIStandalonePreset.unshift(jsonTreePlugin.default);
