@@ -28,7 +28,7 @@
     "webpack-dev-server": "^3.11.2"
   },
   "dependencies": {
-    "del-cli": "^3.0.1",
+    "del-cli": "^4.0.0",
     "proptypes": "^1.1.0",
     "react": "^17.0.2",
     "react-json-view": "latest",
